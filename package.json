@@ -1,0 +1,10 @@
+{
+  "name": "pify-node-with-promises",
+  "version": "1.0.0",
+  "main": "rename-file.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^1.18.9",
+    "pify": "^4.0.1"
+  }
+}
